@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eKwnpBdKH5E=",
+  "success": true,
+  "projectFilePath": "C:\\Semestru3OOP\\Lab3\\LAB3OOP\\LAB3OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chicu\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\chicu\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
